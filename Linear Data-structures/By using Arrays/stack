@@ -1,4 +1,4 @@
-//stack is a linear data structure which follow first in first out mechanism
+//stack is a linear data structure which follow last in first out mechanism
 
 //stack using Arrays
 
